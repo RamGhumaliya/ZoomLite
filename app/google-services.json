@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682147851386",
+    "project_id": "zoomlite-1abbc",
+    "storage_bucket": "zoomlite-1abbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682147851386:android:5e78fb0f3249903c5d9fc3",
+        "android_client_info": {
+          "package_name": "com.example.zoomlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682147851386-g4tsebshuvnv2pngerr464mhav3qp27r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_nfYIvm-fY0I1jQD6jOOV0ZH3CjDbus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682147851386-g4tsebshuvnv2pngerr464mhav3qp27r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
